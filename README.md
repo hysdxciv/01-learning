@@ -4,6 +4,8 @@ Welcome! This repository is dedicated to my personal learning journey as I trans
 
 ## 📂 Repository Structure
 
+01-learning/ ├── 01-certifications/ ├── 02-python/ │ ├── 01-basic-exercises/ # Variables, loops, conditionals │ ├── 02-intermediate/ # Functions, lists, dicts │ └── 03-advanced-solutions/ ├── 03-js-ts-html-css/ ├── 04-django-web-framework/ └── 05-reactjs-nextjs/
+
 01-learning/ 
 │
 ├── 01-certifications/
