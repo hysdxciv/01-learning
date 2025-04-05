@@ -26,7 +26,10 @@ This folder is part of my personal study repository. I'm transitioning from civi
 
 ## 🚀 How to Run
 
-Make sure you have Python installed. Then run any file using:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/hysdxciv/01-learning.git
 
-```bash
-python ex01.py
+2. Navigate to 02-python/01-basic-exercises.
+
+3. Run the .py files individually to explore the examples.
