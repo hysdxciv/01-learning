@@ -81,9 +81,3 @@ while True:
 
     comando()
     salvar(tarefas, CAMINHO_ARQUIVO)
-
-
-
-
-
-
